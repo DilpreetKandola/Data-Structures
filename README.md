@@ -9,3 +9,6 @@
 
 ## [Queue-Implementation](https://github.com/DilpreetKandola/Data-Structures/tree/main/queue-implementation)
 *In my C++ implementation of a queue, I've incorporated templates to allow for the use of any data type. This implementation includes essential methods such as emplace, pop, print, and functions to check if the queue is empty, determine its size, and access both the front and back data values.*
+
+## [B-Tree Implementation](https://github.com/DilpreetKandola/Data-Structures/tree/main/B-Tree)
+*In this C++ B-Tree implementation, i've incorporated use of vectors for safe and automatic memory management. Vector use allows this implementation to avoid common memory errors and leaks compared to other array implementations of B-Trees. Optimizations made to allow a function to serve multiple purposes(getInRange). B-trees have a time complexity of O(log N) for operations like insertion, deletion and search.* 
